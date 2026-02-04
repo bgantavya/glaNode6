@@ -1,0 +1,11 @@
+{
+  "name": "node-env-setup-demo",
+  "version": "1.0.0",
+  "description": "demo package.json",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "student",
+  "license": "MIT"
+}
