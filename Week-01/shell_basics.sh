@@ -1,5 +1,7 @@
+#!/usr/bin/env bash
+# variables, loops, and conditionals
 
-# variables + loops + conditionals
+set -e
 
 name="student"
 

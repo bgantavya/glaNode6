@@ -1,4 +1,7 @@
+#!/usr/bin/env bash
 # create branch, push, update PR push changes to origin
+
+set -e
 
 git checkout -b feature/login
 

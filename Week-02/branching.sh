@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # branch and merge feature integration
 
 set -e
